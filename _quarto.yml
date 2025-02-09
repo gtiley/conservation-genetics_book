@@ -1,0 +1,52 @@
+project:
+  type: book
+
+book:
+  title: "Computational Molecular Evolution for Practical Conservation Biology"
+  author:
+    - name: Kin-Lan Han
+      orcid: X
+      email: X
+      affiliations: X
+    - name: George P. Tiley
+      orcid: X
+      email: george.tiley@gmail.com
+      affilitations: X
+  date: 2025-02-09
+  cover-image: cover.png
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Coalescent Theory"
+      chapters:
+        - coalescent/single_pop.qmd
+    - summary.qmd
+    - references.qmd
+  appendices:
+    - appendices/probability_distributions.qmd
+
+license: "GNU GPLv3"
+copyright:
+  holder: Kin-Lan Han & George P. Tiley
+  year: 2025
+bibliography: references.bib
+highlight-style: pygments
+number-sections: true
+number-depth: 1
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    html-math-method: katex
+  pdf:
+    documentclass: scrreprt
+    include-in-header:
+      \usepackage{imakeidx}
+      \makeindex[intoc=true, columns=3, columnseprule=true, options=-s latex/indexstyles.ist]
+      \usepackage{fvextra}
+      \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+      \DefineVerbatimEnvironment{OutputCode}{Verbatim}{breaklines,commandchars=\\\{\}}
+    include-after-body:
+      text: |
+        \printindex

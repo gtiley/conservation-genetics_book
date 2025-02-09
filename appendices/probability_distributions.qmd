@@ -1,0 +1,7 @@
+# Probability Distributions
+
+Some notes about expectations from probability distributions
+
+## Approximating continuous time from discrete generations
+
+X

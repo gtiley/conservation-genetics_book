@@ -1,0 +1,64 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Computational Molecular Evolution for Practical Conservation Biology",
+    "section": "",
+    "text": "Preface\nThis book is a work in progress. Please excuse our mess.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "A few typographical conventions are used in this book1:",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#footnotes",
+    "href": "intro.html#footnotes",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Taken directly from Python for Data Analysis↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "coalescent/single_pop.html",
+    "href": "coalescent/single_pop.html",
+    "title": "2  Expected Genetic Variaiton in a Single Population",
+    "section": "",
+    "text": "Introduction",
+    "crumbs": [
+      "Coalescent Theory",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Expected Genetic Variaiton in a Single Population</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "This book is a work in progress. Please excuse our mess.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/probability_distributions.html",
+    "href": "appendices/probability_distributions.html",
+    "title": "Appendix A — Probability Distributions",
+    "section": "",
+    "text": "Approximating continuous time from discrete generations\nSome notes about expectations from probability distributions\nX",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Probability Distributions</span>"
+    ]
+  }
+]

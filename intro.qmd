@@ -1,0 +1,6 @@
+# Introduction
+
+A few typographical conventions are used in this book[^1]:
+
+[^1]: Taken directly from [Python for Data Analysis](https://wesmckinney.com/book/preface)
+

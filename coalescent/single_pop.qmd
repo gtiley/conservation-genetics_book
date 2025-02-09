@@ -1,0 +1,9 @@
+---
+title: "Expected Genetic Variaiton in a Single Population"
+date: 2025-02-09
+bibliography: ../references.bib
+---
+
+## Introduction
+
+X.
